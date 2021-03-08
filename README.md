@@ -1,2 +1,2 @@
 # git-study
-Just for study git
+Just to study git
